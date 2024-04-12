@@ -1,4 +1,4 @@
-,dart
+dart
 venomchik
 kseniiabondarenko0
 Gresha_11111_GT
